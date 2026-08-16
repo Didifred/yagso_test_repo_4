@@ -1,0 +1,3 @@
+[submodule "yagso_test_repo_2"]
+	path = yagso_test_repo_2
+	url = https://github.com/Didifred/yagso_test_repo_2.git
